@@ -19,4 +19,4 @@ Supabase · AWS · REST APIs · Git
 
 ### Connect
 
-[Portfolio] · [LinkedIn]
+[[Portfolio](https://dworrels.github.io/)] · [[LinkedIn](https://www.linkedin.com/in/dworrels/)]
