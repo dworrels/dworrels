@@ -1,16 +1,22 @@
-## Hi there 👋
+# Dean Worrels
 
-<!--
-**dworrels/dworrels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of South Florida building
+full-stack applications, data systems, automation tools, and AI-powered products.
 
-Here are some ideas to get you started:
+### Currently building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Civtil**
+A platform that transforms municipal permitting data into searchable
+local development information.
+
+**Nextscene**
+A personalized recommendation system for discovering what to watch next.
+
+### Technologies
+
+TypeScript · JavaScript · Python · React · Next.js · PostgreSQL
+Supabase · AWS · REST APIs · Git
+
+### Connect
+
+[Portfolio] · [LinkedIn]
