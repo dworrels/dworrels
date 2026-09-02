@@ -22,13 +22,15 @@ Nextscene uses ratings, content information, embeddings, and recommendation tech
 
 ## Technologies
 
-**Languages:** TypeScript · JavaScript · Python · SQL
-
-**Frontend:** React · Next.js · HTML · CSS
-
-**Backend & Data:** PostgreSQL · Supabase · REST APIs
-
-**Cloud & Tools:** AWS · Git · GitHub
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38" height="38" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git" />
+</p>
 
 ## Interests
 
@@ -36,4 +38,5 @@ Software Engineering · Backend Development · Full-Stack Development · Data En
 
 ## Connect
 
-[[Portfolio](https://dworrels.github.io/)] · [[LinkedIn](https://www.linkedin.com/in/dworrels/)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge)](https://dworrels.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dean_Worrels-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dworrels/)
