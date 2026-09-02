@@ -5,12 +5,11 @@ full-stack applications, data systems, automation tools, and AI-powered products
 
 ### Currently building
 
-**Civtil**
-A platform that transforms municipal permitting data into searchable
-local development information.
+**Civtil**  
+Platform that transforms municipal permitting data into searchable local development information.
 
-**Nextscene**
-A personalized recommendation system for discovering what to watch next.
+**Nextscene**  
+Personalized recommendation system for discovering what to watch next.
 
 ### Technologies
 
